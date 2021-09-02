@@ -23,6 +23,8 @@
 - [机器学习模型可解释性的6种Python工具包，总有一款适合你！](https://zhuanlan.zhihu.com/p/385424638)
 - [时间序列预测的7种Python工具包，总有一款适合你！](https://zhuanlan.zhihu.com/p/385094015)
 - [最佳模型解释器LIME来了！Github已达 8.9K stars!](https://zhuanlan.zhihu.com/p/384857575)
+- [【视频+PPT】2021李宏毅老师40节机器学习课程已更新完毕！](https://zhuanlan.zhihu.com/p/381679334)
+- [干货 | 2021年机器学习不容错过的14个博客](https://zhuanlan.zhihu.com/p/348899190)
 
 
 #### 工具包
@@ -35,6 +37,7 @@
 - [超硬核！分享9个功能强大却鲜为人知的 Python 工具包!](https://zhuanlan.zhihu.com/p/392717890)
 - [造数能力堪称一绝！Python 中神奇的第三方库 Faker 真棒！](https://zhuanlan.zhihu.com/p/390671216)
 - [不要再使用Print在Python中进行调试了，Ice Cream 来了！](https://zhuanlan.zhihu.com/p/383082313)
+- [性能有瓶颈？3 个实时可视化 Python 工具包来帮你！](https://zhuanlan.zhihu.com/p/380480052)
 
 #### 可视化
 
@@ -43,6 +46,10 @@
 - [吊打pyecharts，又一超级棒的开源可视化库！](https://zhuanlan.zhihu.com/p/389385299)
 - [太枯燥？分享一个交互式动画可视化 Python 工具包!](https://zhuanlan.zhihu.com/p/388602228)
 - [深度盘点！整理了 38 个 python 数据可视化库](https://zhuanlan.zhihu.com/p/388006034)
+- [再见matplotlib，7 个必须尝试的 Python 数据可视化库！](https://zhuanlan.zhihu.com/p/378312525)
+- [被Altair圈粉了！Python数据可视化又来一位猛将！](https://zhuanlan.zhihu.com/p/370839110)
+- [Pandas_Alive！一款可以让数据舞动起来的可视化工具](https://zhuanlan.zhihu.com/p/270899460)
+- [超强大！Python 可视化这款大屏就够了！](https://zhuanlan.zhihu.com/p/267933909)
 
 #### python
 
@@ -57,16 +64,24 @@
 - [Pandas pipe: 一种更优雅的数据预处理方法！](https://zhuanlan.zhihu.com/p/395213077)
 - [快收藏！！整理了100个Python小技巧！！](https://zhuanlan.zhihu.com/p/389057087)
 - [熬了半宿，整理了 34 个 Python 自动化办公库！](https://zhuanlan.zhihu.com/p/387180224)
+- [奥利给！10个Python 示例，轻松学会 *args 和 **kwargs](https://zhuanlan.zhihu.com/p/301854682)
 
 
 #### vscode
+- [超强大！没有这 24 款插件的 VScode 是没有灵魂的](https://zhuanlan.zhihu.com/p/265806538)
 - [2021 年 VS Code 必备的8个 Python 插件！](https://zhuanlan.zhihu.com/p/395594939)
 - [VS Code能自己编程了，GitHub推出原生AI代码生成工具上线！](https://zhuanlan.zhihu.com/p/385467070)
+- [每个 Python 开发者必备的5款 VScode 拓展工具包！](https://zhuanlan.zhihu.com/p/388333854)
+- [效率倍增！10个超级好用的VScode使用技巧！](https://zhuanlan.zhihu.com/p/341534303)
+- [爱了爱了！8 个被低估但功能非常强大的 VSCode 插件！](https://zhuanlan.zhihu.com/p/305246079)
 
 #### 数据分析
 - [实战案例！我用《觉醒年代》做数据分析！](https://zhuanlan.zhihu.com/p/390667414)
-- [每个 Python 开发者必备的5款 VScode 拓展工具包！](https://zhuanlan.zhihu.com/p/388333854)
 - [超级干货！史上最全数据分析学习路线(附资源下载)](https://zhuanlan.zhihu.com/p/383053860)
+- [4 款 Python 数据探索性分析(EDA)工具包，总有一款适合你！](https://zhuanlan.zhihu.com/p/372676897)
+- [太香！一行代码搞定端到端数据分析报告！](https://zhuanlan.zhihu.com/p/358587534)
+- [李航老师《统计学习方法（第二版）》课件 & 算法代码全公开了！](https://zhuanlan.zhihu.com/p/354698712)
+- [省时提效！一款数据探索性分析工具 Pandasgui](https://zhuanlan.zhihu.com/p/284391734)
 
 
 
