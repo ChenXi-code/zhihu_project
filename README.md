@@ -6,12 +6,6 @@
 
 > 内容目录
 
-- 机器学习
-- 工具包
-- 可视化
-- python
-
-
 #### 机器学习
 
 - [超越 Facebook 的 Prophet，NeuralProphet 这个时序工具包也太强了！](https://zhuanlan.zhihu.com/p/405914462)
