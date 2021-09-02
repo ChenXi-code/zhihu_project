@@ -20,13 +20,16 @@
 
 
 #### 工具包
-
+- [涨知识了！这9个鲜为人知的 Python 第三方库真棒！](https://zhuanlan.zhihu.com/p/405181482)
 
 #### 可视化
+
+- [干货！20张最新可视化大屏模板，各行业数据直接套用(含源码)！](https://zhuanlan.zhihu.com/p/405240637)
 
 #### python
 
 - [刷新了我的认知，Pandas 中的宝藏函数 transform() 真棒！](https://zhuanlan.zhihu.com/p/405545523)
+
 
 
 
