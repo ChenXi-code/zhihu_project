@@ -9,6 +9,7 @@
 - 机器学习
 - 工具包
 - 可视化
+- python
 
 
 #### 机器学习
@@ -22,6 +23,10 @@
 
 
 #### 可视化
+
+#### python
+
+- [刷新了我的认知，Pandas 中的宝藏函数 transform() 真棒！](https://zhuanlan.zhihu.com/p/405545523)
 
 
 
