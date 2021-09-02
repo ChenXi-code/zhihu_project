@@ -15,6 +15,14 @@
 - [实战案例！使用 Python 进行 RFM 客户价值分析！](https://zhuanlan.zhihu.com/p/399956352)
 - [实战案例｜基于机器学习的 Python 信用卡欺诈检测！](https://zhuanlan.zhihu.com/p/399865909)
 - [新汇编一本答疑书！台大李宏毅《机器学习》2021课程撒花完结！](https://zhuanlan.zhihu.com/p/398017393)
+- [再次出发！FaceBook 开源"一站式服务"时序利器 Kats ！](https://zhuanlan.zhihu.com/p/392994213)
+- [这个算法让我无法拒绝！特征筛选瑰宝 Boruta 真棒！](https://zhuanlan.zhihu.com/p/392325156)
+- [太棒了！FaceBook 开源全网第一个时序王器 Kats ！](https://zhuanlan.zhihu.com/p/391897734)
+- [深度盘点 | 整理了47个Python人工智能库](https://zhuanlan.zhihu.com/p/391638964)
+- [微软面向初学者ML课程来了，Github一天狂揽2000+星!](https://zhuanlan.zhihu.com/p/386603586)
+- [机器学习模型可解释性的6种Python工具包，总有一款适合你！](https://zhuanlan.zhihu.com/p/385424638)
+- [时间序列预测的7种Python工具包，总有一款适合你！](https://zhuanlan.zhihu.com/p/385094015)
+- [最佳模型解释器LIME来了！Github已达 8.9K stars!](https://zhuanlan.zhihu.com/p/384857575)
 
 
 #### 工具包
@@ -23,10 +31,18 @@
 - [Schedule：一个简单实用的 Python 周期任务调度工具！](https://zhuanlan.zhihu.com/p/403576859)
 - [受教了！让 Python 代码简洁的7个实用技巧！](https://zhuanlan.zhihu.com/p/402432983)
 - [Sidetable：一种高效的 Python 数据框处理工具！](https://zhuanlan.zhihu.com/p/398417886)
+- [Rich：Python开发者的完美终端工具！](https://zhuanlan.zhihu.com/p/394105084)
+- [超硬核！分享9个功能强大却鲜为人知的 Python 工具包!](https://zhuanlan.zhihu.com/p/392717890)
+- [造数能力堪称一绝！Python 中神奇的第三方库 Faker 真棒！](https://zhuanlan.zhihu.com/p/390671216)
+- [不要再使用Print在Python中进行调试了，Ice Cream 来了！](https://zhuanlan.zhihu.com/p/383082313)
 
 #### 可视化
 
 - [干货！20张最新可视化大屏模板，各行业数据直接套用(含源码)！](https://zhuanlan.zhihu.com/p/405240637)
+- [纯干货！手把手教你16个 Matplotlib 绘图使用小技巧！](https://zhuanlan.zhihu.com/p/390285158)
+- [吊打pyecharts，又一超级棒的开源可视化库！](https://zhuanlan.zhihu.com/p/389385299)
+- [太枯燥？分享一个交互式动画可视化 Python 工具包!](https://zhuanlan.zhihu.com/p/388602228)
+- [深度盘点！整理了 38 个 python 数据可视化库](https://zhuanlan.zhihu.com/p/388006034)
 
 #### python
 
@@ -38,10 +54,20 @@
 - [10 个让你惊叹的 Python 技巧，第 9 款是我的最爱！](https://zhuanlan.zhihu.com/p/399779968)
 - [简单实用的pandas技巧：如何将内存占用降低90%](https://zhuanlan.zhihu.com/p/399681016)
 - [超硬核！Github最热门的200个 Python 中文项目！](https://zhuanlan.zhihu.com/p/398032368)
+- [Pandas pipe: 一种更优雅的数据预处理方法！](https://zhuanlan.zhihu.com/p/395213077)
+- [快收藏！！整理了100个Python小技巧！！](https://zhuanlan.zhihu.com/p/389057087)
+- [熬了半宿，整理了 34 个 Python 自动化办公库！](https://zhuanlan.zhihu.com/p/387180224)
 
 
 #### vscode
 - [2021 年 VS Code 必备的8个 Python 插件！](https://zhuanlan.zhihu.com/p/395594939)
+- [VS Code能自己编程了，GitHub推出原生AI代码生成工具上线！](https://zhuanlan.zhihu.com/p/385467070)
+
+#### 数据分析
+- [实战案例！我用《觉醒年代》做数据分析！](https://zhuanlan.zhihu.com/p/390667414)
+- [每个 Python 开发者必备的5款 VScode 拓展工具包！](https://zhuanlan.zhihu.com/p/388333854)
+- [超级干货！史上最全数据分析学习路线(附资源下载)](https://zhuanlan.zhihu.com/p/383053860)
+
 
 
 
