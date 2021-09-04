@@ -1,8 +1,8 @@
 ## 🙋 Hi there 🌱  知乎实战干货分享
 
-独学而无友，则孤陋而寡闻。为方便技术交流，我开通了学习交流技术群，添加方式如下：
-- 添加小助手微信号：pythoner666  , 后台回复：加群;
-- 关注：微信公众号 **Python学习与数据挖掘**，后台回复：加群;
+独学而无友，则孤陋而寡闻。为方便技术交流，我开通了技术交流群，添加方式如下：
+- 添加小助手微信号：pythoner666  , 后台回复：加群，备注来源;
+- 关注：微信公众号 **Python学习与数据挖掘**，后台回复：加群，备注来源;
 - 将如下图片保存并发送微信长按识别;
 
 <img src="https://img-blog.csdnimg.cn/20210617234928176.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODAzNzQwNQ==,size_16,color_FFFFFF,t_70" width="450px">
@@ -70,7 +70,7 @@
 - [奥利给！10个Python 示例，轻松学会 *args 和 **kwargs](https://zhuanlan.zhihu.com/p/301854682)
 
 
-#### vscode
+#### Vscode
 - [超强大！没有这 24 款插件的 VScode 是没有灵魂的](https://zhuanlan.zhihu.com/p/265806538)
 - [2021 年 VS Code 必备的8个 Python 插件！](https://zhuanlan.zhihu.com/p/395594939)
 - [VS Code能自己编程了，GitHub推出原生AI代码生成工具上线！](https://zhuanlan.zhihu.com/p/385467070)
@@ -85,6 +85,16 @@
 - [太香！一行代码搞定端到端数据分析报告！](https://zhuanlan.zhihu.com/p/358587534)
 - [李航老师《统计学习方法（第二版）》课件 & 算法代码全公开了！](https://zhuanlan.zhihu.com/p/354698712)
 - [省时提效！一款数据探索性分析工具 Pandasgui](https://zhuanlan.zhihu.com/p/284391734)
+- [干货｜手把手教你如何去做一份商业数据分析报告](https://zhuanlan.zhihu.com/p/147537083)
+- [干货｜只需5步，手把手教你识别客户购买意愿(附代码数据)](https://zhuanlan.zhihu.com/p/205228489)
+
+#### Jupyter
+- [我知道你听过Jupyter Notebook，试问一下，你真的会用它吗](https://zhuanlan.zhihu.com/p/166438387)
+- [8个好用到爆炸的Jupyter Notebook小技巧！](https://zhuanlan.zhihu.com/p/190688987)
+- [超棒！8 款非常实用的 JupyterLab 插件](https://zhuanlan.zhihu.com/p/284351188)
+
+---
+
 
 
 
