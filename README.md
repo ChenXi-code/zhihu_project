@@ -1,13 +1,13 @@
-## 🙋 Hi there 🌱  知乎实战干货分享
+## 🙋 Hi there 🌱  实战干货汇总
 
 独学而无友，则孤陋而寡闻。为方便技术交流，我开通了技术交流群，添加方式如下：
-- 添加小助手微信号：pythoner666  , 后台回复：加群，备注来源;
-- 关注：微信公众号 **Python学习与数据挖掘**，后台回复：加群，备注来源;
-- 将如下图片保存并发送微信长按识别;
+- 添加微信号：pythoner666 , 备注：来源+加群;
+- 关注微信公众号 **Python学习与数据挖掘**，后台回复：加群;
+- 扫描或将如下图片保存并发送微信长按识别;
 
 <img src="https://img-blog.csdnimg.cn/20210617234928176.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zODAzNzQwNQ==,size_16,color_FFFFFF,t_70" width="450px">
 
-> 内容目录
+文章内容较多，**建议收藏后学习，喜欢点赞支持。**
 
 #### 机器学习
 
@@ -54,7 +54,7 @@
 - [Pandas_Alive！一款可以让数据舞动起来的可视化工具](https://zhuanlan.zhihu.com/p/270899460)
 - [超强大！Python 可视化这款大屏就够了！](https://zhuanlan.zhihu.com/p/267933909)
 
-#### python
+#### Python
 
 - [刷新了我的认知，Pandas 中的宝藏函数 transform() 真棒！](https://zhuanlan.zhihu.com/p/405545523)
 - [6个 Python 办公黑科技，工作效率提升100倍！（附代码）](https://zhuanlan.zhihu.com/p/404701484)
